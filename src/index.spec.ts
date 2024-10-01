@@ -1,13 +1,13 @@
 
-import { CalculatorModel } from './index';
+import { StandardCalculatorModel } from './index';
 
 describe('week5-creational-DP', (): void => {
 
-  describe('CalculatorModel', (): void => {
+  describe('StandardCalculatorModel', (): void => {
 
-    it('CalculatorModel exists', (): void => {
+    it('StandardCalculatorModel exists', (): void => {
 
-      expect(CalculatorModel).toBeDefined();
+      expect(StandardCalculatorModel).toBeDefined();
 
     });
 
